@@ -62,6 +62,8 @@ Bird-Data-Scraping/
 │       └── Bird_Species_Classification.ipynb                   # EfficientNetB0 (97.35% accuracy)
 ├── images/
 │   └── dashboard_preview.png
+├── presentation/
+│   └── EcoEye_Presentation.pdf                                 # Final project presentation (15 slides)
 ├── requirements.txt
 ├── .gitignore
 └── README.md
@@ -154,6 +156,13 @@ This was a group project. My specific responsibilities:
 - **Data consolidation** — merged 25+ per-species CSV exports with peer-collected data, resolved naming inconsistencies, standardized schema across 288,562 total observations
 - **ML model** — built the EfficientNetB0 classifier (97.35% accuracy) with data augmentation, training callbacks, Grad-CAM interpretability, and single-image prediction
 - **Power BI dashboard** — designed the Bird Tracking dashboard with global species presence map, quarterly migration charts, yearly/daywise sighting trends, and county-level breakdowns
+
+---
+
+## Presentation
+
+The final project presentation (15 slides) covering the problem statement, system architecture, live demo, and future developments is available here:
+[EcoEye_Presentation.pdf](presentation/EcoEye_Presentation.pdf)
 
 ---
 
