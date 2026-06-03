@@ -1,6 +1,6 @@
 <div align="center">
 
-# EcoEye — Bird Monitoring System
+# EcoEye - Bird Monitoring System
 
 ### Data Pipeline · Species Classification · Conservation Analytics
 
