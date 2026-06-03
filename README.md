@@ -52,7 +52,7 @@ This repository covers three components of the EcoEye project:
 ## 📁 Repository Structure
 
 ```
-📦 EcoEye-Bird-Monitoring
+📦 Bird-Data-Scraping
  ┣ 📂 notebooks
  ┃ ┣ 📂 01_scraping
  ┃ ┃ ┣ 📓 Web Scraping.ipynb                              # Initial prototype (eBird)
