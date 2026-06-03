@@ -5,6 +5,10 @@ Birds/
 *.jpeg
 *.png
 
+# But allow screenshots in the images/ folder
+!images/*.png
+!images/*.jpg
+
 # Jupyter
 .ipynb_checkpoints/
 __pycache__/
