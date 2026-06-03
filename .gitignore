@@ -9,6 +9,9 @@ Birds/
 !images/*.png
 !images/*.jpg
 
+# Allow presentation PDF
+!presentation/*.pdf
+
 # Jupyter
 .ipynb_checkpoints/
 __pycache__/
