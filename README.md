@@ -31,7 +31,7 @@
 
 | 📦 Dataset | 🤖 Model Accuracy | 🌍 Countries | 🐦 Species |
 |:---:|:---:|:---:|:---:|
-| **128,997 records** | **97.35%** | **170** | **53 monitored** |
+| **288,562 observations** | **97.35%** | **170** | **53 monitored** |
 
 </div>
 
@@ -159,7 +159,7 @@ notebooks/02_model/Bird_Species_Classification.ipynb
 This was a group project. My specific responsibilities:
 
 - 🕷️ **Scraping pipeline** — built and iterated 4 versions of the Selenium scraper for per-species image collection from iStock and eBird
-- 🧹 **Data consolidation** — merged 25+ per-species CSV exports, resolved naming inconsistencies, standardized schema across 128,997 records
+- 🧹 **Data consolidation** — merged 25+ per-species CSV exports with peer-collected data, resolved naming inconsistencies, standardized schema across 288,562 total observations
 - 🤖 **ML model** — built the EfficientNetB0 classifier (97.35% accuracy) with data augmentation, training callbacks, Grad-CAM interpretability, and single-image prediction
 - 📊 **Power BI dashboard** — designed the Bird Tracking dashboard with global species presence map, quarterly migration charts, yearly/daywise sighting trends, and county-level breakdowns
 
