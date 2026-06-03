@@ -1,0 +1,18 @@
+# Downloaded images
+downloaded_images/
+Birds/
+*.jpg
+*.jpeg
+*.png
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ChromeDriver binary
+chromedriver.exe
+chromedriver
