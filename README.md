@@ -30,6 +30,8 @@
 |:---:|:---:|:---:|:---:|
 | **288,562 observations** | **97.35%** | **170** | **53 monitored** |
 
+> **Note:** The classification model is a prototype trained on 10 species. The full dataset covers 53 species — the goal is to expand the model to cover all 53 as more labelled data is collected.
+
 </div>
 
 ---
