@@ -60,6 +60,8 @@ Bird-Data-Scraping/
 │   │   └── Final Scraping (Code).ipynb                         # Production scraper
 │   └── 02_model/
 │       └── Bird_Species_Classification.ipynb                   # EfficientNetB0 (97.35% accuracy)
+├── data/
+│   └── birds_sample.csv                                        # Sample dataset (1,000 records, 28 species, 63 countries)
 ├── images/
 │   └── dashboard_preview.png
 ├── presentation/

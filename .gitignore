@@ -5,6 +5,9 @@ Birds/
 *.jpeg
 *.png
 
+# Allow sample data
+!data/*.csv
+
 # But allow screenshots in the images/ folder
 !images/*.png
 !images/*.jpg
